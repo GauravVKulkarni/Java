@@ -5,7 +5,7 @@ public class Inputoutput {
         int n = 0;
         System.out.println("Enter a number: ");
         n = in.nextInt();
-        System.out.println(n);
+        System.out.println("the number was "+n);
         in.close();
     }
 }
